@@ -1,0 +1,14 @@
+C:\Users\klsadmin\source\repos\dicttest\dicttest\bin\Debug\net6.0\dicttest.exe
+C:\Users\klsadmin\source\repos\dicttest\dicttest\bin\Debug\net6.0\dicttest.deps.json
+C:\Users\klsadmin\source\repos\dicttest\dicttest\bin\Debug\net6.0\dicttest.runtimeconfig.json
+C:\Users\klsadmin\source\repos\dicttest\dicttest\bin\Debug\net6.0\dicttest.dll
+C:\Users\klsadmin\source\repos\dicttest\dicttest\bin\Debug\net6.0\dicttest.pdb
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.AssemblyInfoInputs.cache
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.AssemblyInfo.cs
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.csproj.CoreCompileInputs.cache
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.dll
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\refint\dicttest.dll
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.pdb
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\dicttest.genruntimeconfig.cache
+C:\Users\klsadmin\source\repos\dicttest\dicttest\obj\Debug\net6.0\ref\dicttest.dll
